@@ -8,7 +8,7 @@ services:
       MYSQL_ROOT_PASSWORD: hello
       MYSQL_DATABASE: db_tasks_approach
       MYSQL_USER: nbjm
-      MYSQL_PASSWORD: SU12mo34
+      MYSQL_PASSWORD:
     volumes:
       - ./mysql:/var/lib/mysql
     ports:
