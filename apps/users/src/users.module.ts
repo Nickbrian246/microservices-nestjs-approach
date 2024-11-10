@@ -10,7 +10,7 @@ import { User } from './entities/user.entity';
       host: 'localhost',
       port: 3307,
       username: 'nbjm',
-      password: 'SU12mo34',
+      password: '',
       database: 'db_tasks_approach',
       autoLoadEntities: true,
       synchronize: true,
